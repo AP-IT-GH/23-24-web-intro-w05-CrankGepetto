@@ -4,17 +4,17 @@
 
 ### `index.html` openen
 
- - [ ] Open het bestand genaamd [`index.html`](index.html).
+ - [x] Open het bestand genaamd [`index.html`](index.html).
 
 ### `style.css` koppelen
 
-- [ ] Koppel de eigen css uit [`style.css`](css/style.css) aan de HTML.
+- [x] Koppel de eigen css uit [`style.css`](css/style.css) aan de HTML.
     - `./css/style.css` en gebruik de klasse `themed-container` voor section
 
 ### bekijk de Bootstrap cheatsheet
 
-- [ ] open de [Bootstrap cheatsheet](https://getbootstrap.com/docs/5.3/examples/cheatsheet/). Gebruik de dev-tools van je browser om de elementen te inspecteren.
-- [ ] Open de [Bootstrap icons](https://icons.getbootstrap.com/). Klik op een icoontje om te leren hoe je het icoontje gebruikt op een Bootstrap-webpagina.
+- [x] open de [Bootstrap cheatsheet](https://getbootstrap.com/docs/5.3/examples/cheatsheet/). Gebruik de dev-tools van je browser om de elementen te inspecteren.
+- [x] Open de [Bootstrap icons](https://icons.getbootstrap.com/). Klik op een icoontje om te leren hoe je het icoontje gebruikt op een Bootstrap-webpagina.
 
 ### voorbeeld namaken
 
